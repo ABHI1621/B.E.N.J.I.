@@ -13,8 +13,9 @@ with open(path.join(here, 'README.md'), encoding='utf-8') as f:
 setup(
 
 	name='B.E.N.J.I',
-	version='1.0',
 	description='Your Voice Assistant',
+	version='1.0',
+	
 
 
 	author:'Dhruv Apte',
